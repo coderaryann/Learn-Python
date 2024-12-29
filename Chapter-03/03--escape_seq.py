@@ -1,0 +1,7 @@
+print("This is a bat\nThis is a ball")
+print("This is a bat\tThis is a ball")
+print("This is a bat \"This is a ball\"")
+print("This is a bat \\ This is a ball")
+print("This is a bat\bThis is a ball")
+print("This is a bat\rThis is a ball")
+print("This is a bat\vThis is a ball")
