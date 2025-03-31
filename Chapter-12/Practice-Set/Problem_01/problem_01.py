@@ -7,7 +7,7 @@ except Exception as e:
     print(e)
 
 try:
-    with open ("2.txt", "r") as f:
+    with open ("../LEARN-PYTHON/Chapter-12/Practice-Set/Problem_01/2.txt", "r") as f:
         print(f.read())
 except Exception as e:
     print(e)
